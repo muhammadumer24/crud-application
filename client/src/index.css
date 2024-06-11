@@ -1,0 +1,8 @@
+li {
+  list-style: none;
+}
+ul {
+  display: grid;
+  grid-auto-flow: column;
+  justify-items: start;
+}
